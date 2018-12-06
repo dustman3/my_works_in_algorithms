@@ -1,0 +1,16 @@
+{
+  "name": "hauffman_code",
+  "version": "1.0.0",
+  "description": "hauffman_code",
+  "main": "hauffman.js",
+  "scripts": {
+    "start": "node hauffman.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amel Geroge Rathappillil(10442659) Harish Indalkar(10441759) Swapnil Gorey(10443462)",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
