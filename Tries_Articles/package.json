@@ -1,0 +1,18 @@
+{
+  "name": "tries",
+  "version": "1.0.0",
+  "description": "tries assignment",
+  "main": "constructTries.js",
+  "scripts": {
+    "start": "node constructTries.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amel Geroge Rathappillil(10442659) Harish Indalkar(10441759) Swapnil Gorey(10443462)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "process": "^0.11.10",
+    "readline-sync": "^1.4.9",
+    "save": "^2.3.2"
+  }
+}
