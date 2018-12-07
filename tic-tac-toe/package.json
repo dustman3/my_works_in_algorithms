@@ -1,0 +1,17 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe game",
+  "main": "tictactoe.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node tictactoe.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amel,Amit,Harish",
+  "license": "ISC"
+}
