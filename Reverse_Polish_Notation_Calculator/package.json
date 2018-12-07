@@ -1,0 +1,21 @@
+{
+  "name": "reverse-polish-notation",
+  "version": "1.0.0",
+  "description": "Reverse Polish Notation Calculation",
+  "main": "reversePolishNotation",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node reversePolishNotation.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amel Geroge Rathappillil(10442659) Harish Indalkar(10441759) Swapnil Gorey(10443462)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  }
+}
